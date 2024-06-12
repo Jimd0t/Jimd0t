@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimd0t
 - 👀 I’m interested in programming, videogames and tech.
-- 🌱 I’m currently learning mobile app development
+- 🌱 i'm currently working with as a salesforce developer
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
